@@ -1,12 +1,6 @@
 # .NET-mvc-webapp
 An overview of my thesis work where I created a web application that allows users to borrow items from their neighbours.
 
-## Homepage
-<img src="assets/images/Screenshot-1.png" alt="Description" width="450" />
-
-## Ad page
-<img src="assets/images/Screenshot-2.png" alt="Description" width="450" />
-
 ---
 
 # Demo
@@ -20,3 +14,9 @@ https://youtu.be/l7inz-vErP8
 - Entity Framework
 - MySQL
 - SignalR for chat functionality
+
+### Homepage
+<img src="assets/images/Screenshot-1.png" alt="Homepage" width="450" />
+
+### Ad page
+<img src="assets/images/Screenshot-2.png" alt="Ad page" width="450" />
