@@ -1,8 +1,11 @@
 # .NET-mvc-webapp
 An overview of my thesis work where I created a web application that allows users to borrow items from their neighbours.
 
-<img src="assets/images/Screenshot-1.png" alt="Description" width="350" />
-<img src="assets/images/Screenshot-2.png" alt="Description" width="350" />
+## Homepage
+<img src="assets/images/Screenshot-1.png" alt="Description" width="450" />
+
+## Ad page
+<img src="assets/images/Screenshot-2.png" alt="Description" width="450" />
 
 ---
 
