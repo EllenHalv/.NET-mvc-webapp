@@ -15,8 +15,8 @@ https://youtu.be/l7inz-vErP8
 - MySQL
 - SignalR for chat functionality
 
-### Homepage
+Homepage
 <img src="assets/images/Screenshot-1.png" alt="Homepage" width="450" />
 
-### Ad page
+Ad page
 <img src="assets/images/Screenshot-2.png" alt="Ad page" width="450" />
